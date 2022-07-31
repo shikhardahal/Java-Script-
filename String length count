@@ -1,0 +1,2 @@
+let firstName = "shikhar";
+console.log(firstName.length);
