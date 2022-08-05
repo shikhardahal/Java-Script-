@@ -1,0 +1,14 @@
+//string concatenation 
+let string1 = "Shikhar";
+let string2 = "Dahal";
+let fullname = string1 + " " + string2;
+console.log(fullname);
+
+// string concatenation and converting in number 
+
+let string3 = "17";
+let string4 = "10";
+
+let newString = +string4 + +string3;
+console.log(newString);
+console.log(typeof newString);
