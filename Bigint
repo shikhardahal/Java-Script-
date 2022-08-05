@@ -1,0 +1,14 @@
+//undefined
+//null
+let firstName;
+console.log(typeof FirstName);
+firstName = "Shikhar";
+console.log(typeof firstName, firstName);
+let myVariable = null;
+console.log(myVariable)
+console.log(typeof null);
+
+//bigint
+let myNumber = BigInt(19);
+let ndnumber = 120 n;
+console.log(myNumber + ndnumber);
