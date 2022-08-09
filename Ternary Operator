@@ -1,0 +1,4 @@
+//ternaary operator 
+let age = 18; 
+let drink = age > 18 ? "beer" : "juice"; 
+console.log(drink);
